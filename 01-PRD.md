@@ -4,9 +4,9 @@
 
 - **Propietario (Owner):** Cristian Martínez, Ashley Retana
 
-- **Versión:** 1.1
+- **Versión:** 1.2
 
-- **Estado:** Borrador
+- **Estado:** Versión final (entrega)
 
 - **Revisores:** Wilian Martínez (docente), administrador(a) de la veterinaria, secretarias de recepción
 
@@ -18,6 +18,7 @@
 |---|---|---|---|
 | 1.0 | 10/11/2026 | Cristian Martínez, Ashley Retana | Creación inicial del documento. |
 | 1.1 | 23/11/2026 | Cristian Martínez, Ashley Retana | Se resuelven las preguntas abiertas de la sección 8. |
+| 1.2 | 23/11/2026 | Cristian Martínez, Ashley Retana | La sección 6 remite a los diagramas de `02-diagramas/`. |
 
 # 2. Problema y Objetivos (Problem and Objectives)
 
@@ -179,7 +180,7 @@
 
 # 6. Descripciones de Apoyo (Supporting Descriptions)
 
-- **Diagramas de flujo de datos:** Según lo indicado para esta etapa, el documento no incluye diagramas. El flujo de información, descrito en texto, es el siguiente:
+- **Diagramas de flujo de datos:** Los diagramas están en la carpeta `02-diagramas/`: `dfd` (nivel 0 y nivel 1 de todo el sistema), `casos-de-uso`, `secuencia` y `estados`, y además un archivo por requerimiento (`RF-01` a `RF-12`). En resumen, el flujo de información es el siguiente:
 
   - El cliente o la secretaria envían la solicitud (mascota, servicio, fecha y hora).
 
