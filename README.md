@@ -13,7 +13,7 @@ Las citas de la veterinaria se piden por teléfono, WhatsApp o en el local y se 
 | Carpeta / archivo | Contenido |
 |---|---|
 | `01-PRD.md` | Documento de requerimientos del producto (12 RF, 6 RNF, 10 reglas de negocio) |
-| `02-diagramas/` | Un archivo por requerimiento (`RF-01` a `RF-12`), cada uno con los 4 diagramas: casos de uso, DFD (nivel 0 y 1), secuencia y estados. En `.excalidraw` y `.png` |
+| `02-diagramas/` | **Globales:** `casos-de-uso` (producto completo, todos los actores) y `estados` (ciclo de vida completo de la Cita, T-01…T-09). **Por requerimiento:** `RF-01` a `RF-12`, cada uno con los 4 diagramas (casos de uso, DFD nivel 0 y 1, secuencia y estados). Todo en `.excalidraw` y `.png` |
 | `03-specs/` | `architecture-spec.md`, `feature-core-01.md`, `feature-core-02.md`, `ui-ux-spec.md` |
 | `04-evidencia-ia/` | `prompts-utilizados.md`, `enlace-prototipo.md` y capturas |
 
